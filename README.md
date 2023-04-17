@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **malikitimi@gmail.com**
 
-- ⚡ Fun fact **I love playing games , chilling ,anime , art and MORE!!!
+- ⚡ Fun fact **I love playing games , chilling , anime , art and MORE!!!
 **
 
 <h3 align="left">Connect with me:</h3>
