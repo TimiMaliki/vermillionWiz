@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm TimiLehin</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on **Travel Agency**
+- 🔭 I’m currently working on **Javascript**
 
 - 📫 How to reach me **malikitimi@gmail.com**
 
-- ⚡ Fun fact **I love Anime**
+- ⚡ Fun fact **I love playing games , chilling ,anime , art and MORE!!!
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
